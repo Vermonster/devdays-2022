@@ -5,7 +5,7 @@
 ```
 npm init
 npm i --save-dev typescript
-npx tsc init
+npx tsc --init
 ```
 
 Minimial tsconfig.json:
