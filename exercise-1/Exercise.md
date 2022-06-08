@@ -27,7 +27,7 @@ Minimial tsconfig.json:
 Install [Fastify](https://www.fastify.io/)
 
 ```
-npm install fastify @fastify/cors
+npm install fastify @fastify/cors pino-pretty
 ```
 
 Create server.ts:
