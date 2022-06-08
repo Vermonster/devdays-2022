@@ -4,7 +4,7 @@
 
 ```
 npm init
-npm i --save-dev typescript @types/node
+npm i --save-dev typescript @types/node nodemon
 npx tsc --init
 ```
 
